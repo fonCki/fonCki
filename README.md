@@ -16,6 +16,7 @@ Happy coding!! 🥷
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=fonCki&show_icons=true&theme=dracula)
+
 ![](https://komarev.com/ghpvc/?username=fonCKi&label=PROFILE+VIEWS)
 ## 🛠 Skills
 
