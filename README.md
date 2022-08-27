@@ -8,14 +8,18 @@
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alfonso@ridao.ar?subject=[GitHub]%20Inquiry)
 
 
-I like to build things. So I hope you enjoy some of them that I have written here. Do not hesitate to contact me if you have doubt.
+I like to build things. So I hope you enjoy some of them that I have written here. 
+
+Do not hesitate to contact me if you have doubt.
 
 Happy coding!! 🥷
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=fonCki&show_icons=true&theme=dracula)
+![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonCki&hide=stars)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fonCki)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=fonCKi&label=PROFILE+VIEWS)
 ## 🛠 Skills
