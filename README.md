@@ -1,5 +1,5 @@
 
-## Hi, I'm Alfonso Ridao! 👋
+## Yo, sup fellow coder! I'm Alfonso RIdao 👋
 
 
 
@@ -8,11 +8,7 @@
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alfonso@ridao.ar?subject=[GitHub]%20Inquiry)
 
 
-I like to build things. So I hope you enjoy some of them that I have written here. 
-
-Do not hesitate to contact me if you have doubt.
-
-Happy coding!! 🥷
+I'm the proud owner of this rad GitHub account. I love building things and I hope you enjoy some of the cool stuff I've put together. So grab a bag of chips, put on your favorite 90's jam, and chill out while you check out my projects. And if you have any questions or just want to say what's up, hit me up on my profile page. Peace out and happy coding! 💻🕹️ 🥷
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
