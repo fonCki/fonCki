@@ -1,5 +1,5 @@
 
-## Yo, sup fellow coder! I'm Alfonso RIdao 👋
+## Yo, sup fellow coder! I'm Alfonso Ridao 👋
 
 
 
