@@ -7,8 +7,7 @@
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alfonso.ridao.ar/)
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alfonso@ridao.ar?subject=[GitHub]%20Inquiry)
 
-
-I'm the proud owner of this rad GitHub account. I've just time-traveled to the future, and I'm excited to see what this era holds for coding and technology. I may be new to this time, but I've got my trusty keyboard and my mad coding skills. I'm all about creating cutting-edge projects and I hope you'll appreciate some of the cool stuff I've put together. So grab a bag of chips, a can of Surge, put on your favorite 90's jam, and chill out while you check out my projects. And if you have any questions or just want to say what's up, hit me up on my profile page. Peace out and happy coding! 💻🕹️ 🥷
+I'm the proud owner of this rad GitHub account. I've just made a temporal jump from the not-so-distant past, and I'm excited to see what this future holds for coding and technology. I may be new here, but I've got my trusty keyboard and mad coding skills. I'm passionate about pushing the boundaries of technology, and I hope you'll find my projects intriguing. So grab a bag of chips, and a can of Surge, put on your favorite 90's jam, and chill out while you check out my projects. My email and ICQ are always open for any questions, or comments or if you're feeling nostalgic and want to see some of my previous Turbo Pascal projects. Peace out and happy coding! 💻🕹️ 🥷
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
