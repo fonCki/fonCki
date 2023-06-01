@@ -11,6 +11,7 @@
 I'm the proud owner of this rad GitHub account. I've just made a temporal jump from the not-so-distant past, and I'm excited to see what this future holds for coding and technology. I may be new here, but I've got my trusty keyboard and mad coding skills. I'm passionate about pushing the boundaries of technology, and I hope you'll find my projects intriguing. So grab a bag of chips, and a can of Surge, put on your favorite 90's jam, and chill out while you check out my projects. My email and ICQ are always open for any questions, or comments or if you're feeling nostalgic and want to see some of my previous Turbo Pascal projects. Peace out and happy coding! 💻🕹️ 🥷
 </p>
 
+![Cyberpunk Cityscape](https://github.com/fonCki/fonCki/blob/345313ed2e8b29ed55ed7840767fe9e221ba5e04/DALL%C2%B7E%202023-06-01%2016.17.03%20-%20Create%20a%20widescreen%2C%20high-res%20image%20of%20a%20neon-lit%20cyberpunk%20city%20at%20dusk.%20Purple%20smoggy%20sky%20is%20pierced%20by%20skyscrapers.%20Holographic%20ads%20reflect%20on%20rain.png)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
