@@ -17,7 +17,7 @@ Also a bit of a time traveler. My personal portfolio comes in two flavors, both 
 - 🔐 [`secure-review`](https://github.com/fonCki/secure-review) — Multi-model security review for AI-generated code. CLI + GitHub Action, published on npm. Runs Anthropic / OpenAI / Google reviewers in parallel and treats agreement across models as a confidence signal.
 - 🛠 [`mcp-security-linter`](https://github.com/fonCki/mcp-security-linter) — Static analyzer for MCP servers using taint tracking and fixpoint analysis. IWSPA 2026 paper artifact, also on npm.
 - 🎓 [`eth-mcp`](https://github.com/fonCki/eth-mcp) — Unofficial MCP server for ETH Zürich's course catalog. Query 2500+ courses in plain English from Claude Desktop.
-- 📡 Networking research at ETH on TCP fairness (BBR vs CUBIC), with an upcoming **ANRW 2026** paper. Data and artifacts kept private during peer review.
+- 📡 Networking research at ETH on TCP fairness (BBR vs CUBIC). Data and artifacts kept private for now.
 
 ### Built on the side (frontend therapy)
 
